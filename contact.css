@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Pacifico&family=Playfair+Display:ital,wght@1,900&display=swap');
+body
+{
+    background-color: rgb(50, 123, 123);
+}
+ul
+{
+    list-style: none;
+    display: flex;
+    margin-left: 20%;
+}
+nav li 
+{
+    padding: 4%;
+    text-align: center;
+    margin-top: -3%;
+}
+nav a 
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    
+}
+nav a:hover
+{
+    background-color: aqua;
+    color: blue;
+    opacity: 0.9;
+    padding: 10px;
+}
+.heading
+{
+    font-family: 'Lobster Two', cursive;
+    font-size: 35px;
+    margin-left: 40%;
+    margin-top: -4%;
+    color: rgb(212, 204, 204);
+}
+.con
+{
+    border-bottom: 2px solid black;
+    outline: none;
+    border-top: 1px solid rgb(50, 123, 123);
+    border-left:rgb(50, 123, 123);
+    background-color: rgb(50, 123, 123);
+    border-right: rgb(50, 123, 123);
+    margin-left: 25%;
+    margin-top: 5%;
+}
+::placeholder
+{
+    color: rgb(200, 186, 186);
+}
+.paragraph
+{
+    margin-left: 42%;
+    
+}
+.sub
+{
+    margin-top: 5%;
+    margin-left: 50%;
+    padding: 1%;
+    border-radius: 20px;
+    background-color: rgb(107, 198, 232);
+}
+.message
+{
+    margin-top: 5%;
+    margin-left: 25%;
+    width: 50%;
+    height: 10vh;
+}

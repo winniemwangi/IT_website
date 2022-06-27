@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Pacifico&family=Playfair+Display:ital,wght@1,900&display=swap');
+
+body
+{
+    background-color: rgb(50, 123, 123);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading
+{
+    font-family: 'Lobster Two', cursive;
+    font-size: 35px;
+    margin-left: 40%;
+    margin-top: -4%;
+    color: rgb(212, 204, 204);
+}
+ul
+{
+    list-style: none;
+    display: flex;
+    margin-left: 20%;
+}
+nav li 
+{
+    padding: 4%;
+    text-align: center;
+    margin-top: -3%;
+}
+nav a 
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    
+}
+nav a:hover
+{
+    background-color: aqua;
+    color: blue;
+    opacity: 0.9;
+    padding: 10px;
+}
+.about
+{
+    margin-left: 15%;
+    margin-top: -2%;
+}
+
+.about p
+{
+    font-size: 20px;
+}
+.companys
+{
+    display: flex;
+    background-color: #fff;
+    width: 100%;
+    margin-left: -12%;
+    padding: 3%;
+    margin-top: 6%;
+}
+.goal
+{
+    margin-left: 9%;
+}
+.goal:hover
+{
+    background-color: aqua;
+    padding: 3%;
+}
+.vision
+{
+    margin-left: 6%;
+}
+.vision:hover
+{
+    background-color: aqua;
+    padding: 3%;
+}
+.mission
+{
+    margin-left: 3%;
+}
+.mission:hover
+{
+    background-color: aqua;
+    padding: 3%;
+}
+.icon1
+{
+    font-size: 50px;
+}
+.icon2
+{
+    font-size: 50px;
+}
+.icon3
+{
+    font-size: 50px;
+}

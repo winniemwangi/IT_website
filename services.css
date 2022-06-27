@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&family=Pacifico&family=Playfair+Display:ital,wght@1,900&display=swap');
+body
+{
+    background-color: rgb(50, 123, 123);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+ul
+{
+    display: flex;
+    list-style: none;
+    margin-left: 20%;
+}
+nav li
+{
+    padding: 4%;
+    text-align: center;
+    margin-top: -3%;
+}
+nav a 
+{
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+}
+nav a:hover
+{
+    background-color: aqua;
+    color: blue;
+    opacity: 0.9;
+    padding: 10px;
+}
+.heading
+{
+    font-family: 'Lobster Two', cursive;
+    font-size: 35px;
+    margin-left: 40%;
+    margin-top: -4%;
+    color: rgb(212, 204, 204);
+}
+.flex
+{
+    display: flex;
+    margin-left: 3%;
+    padding: 2%;
+}
+.software
+{
+    background-color: rgb(219, 213, 213);
+    width: 85%;
+    margin-left: 10%;
+    border-radius: 20px;
+    padding: 2%;
+}
+.img1 img
+{
+    height: 40vh;
+    margin-left: 15%;
+    border-radius: 30px;
+}
+.soft
+{
+    font-size: 22px;
+    margin-left: 3%;
+}
+.heading2
+{
+    margin-left: 40%;
+}
+.btn1
+{
+    margin-left: 50%;
+    padding: 1% 2% 1% 2%;
+    margin-top: 3%;
+    border-radius: 20px;
+}
+.btn1:hover
+{
+    background-color: aquamarine;
+}
+.img2 img{
+    height: 40vh;
+    margin-left: 15%;
+    border-radius: 30px;
+}
+.emb
+{
+    font-size: 22px;
+    margin-left: 10%;
+}
+.embeded
+{
+    background-color: rgb(219, 213, 213);
+    width: 85%;
+    margin-left: 1%;
+    border-radius: 20px;
+    margin-top: 3%;
+    padding: 2%;
+}
+.hardware
+{
+    background-color: rgb(219, 213, 213);
+    width: 85%;
+    margin-left: 10%;
+    border-radius: 20px;
+    padding: 2%;
+    margin-top: 3%;
+}
+.img3 img
+{
+    height: 40vh;
+    margin-left: 15%;
+    border-radius: 30px;
+}
+.hard
+{
+    font-size: 22px;
+    margin-left: 3%;
+}
+.hardy
+{
+    display: flex;
+    margin-left: 6%;
+    padding: 2%;
+}
